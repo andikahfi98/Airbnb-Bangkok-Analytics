@@ -1,8 +1,7 @@
 # Festival songkran
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/03ff792e-8350-4da4-b479-d524e28f0969" alt="Songkran">
-</div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/03ff792e-8350-4da4-b479-d524e28f0969" alt="Songkran" width="600">
+</p>
 
 
 # Background
