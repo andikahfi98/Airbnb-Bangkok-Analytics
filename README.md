@@ -1,6 +1,4 @@
-Analyzes 1,510 Airbnb listings in three key Bangkok districts: Phra Nakhon, Bang Rak, and Pathum Wan.  
-It provides insights into average prices, room types, and listing distribution by grade.  
-The analysis helps identify the best accommodation options based on their grade, offering tailored recommendations for users seeking the ideal stay in each district.
+Analyzes 1,510 Airbnb listings in three key Bangkok districts: Phra Nakhon, Bang Rak, and Pathum Wan.It provides insights into average prices, room types, and listing distribution by grade. The analysis helps identify the best accommodation options based on their grade, offering tailored recommendations for users seeking the ideal stay in each district.
 
 # Songkran Festival
 <p align="center">
