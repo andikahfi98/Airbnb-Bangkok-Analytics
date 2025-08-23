@@ -1,68 +1,69 @@
-# Festival songkran
+Analyzes 1,510 Airbnb listings in three key Bangkok districts: Phra Nakhon, Bang Rak, and Pathum Wan.  
+It provides insights into average prices, room types, and listing distribution by grade.  
+The analysis helps identify the best accommodation options based on their grade, offering tailored recommendations for users seeking the ideal stay in each district.
+
+# Songkran Festival
 <p align="center">
   <img src="https://github.com/user-attachments/assets/03ff792e-8350-4da4-b479-d524e28f0969" alt="Songkran" width="600">
 </p>
 
-
 # Background
-Festival Songkran, yang dikenal sebagai Tahun Baru Thailand, adalah perayaan yang berlangsung selama tiga hari atau lebih dan menjadi salah satu tradisi paling penting di negara ini. Festival ini  jatuh pada tanggal 13 hingga 15 April 2023, bahkan ada yang merayakan sampai seminggu. Festival ini terkenal dengan kegiatan menyiram air sebagai simbol penyucian diri, membasuh nasib buruk, dan menyambut tahun baru dengan penuh sukacita. Songkran juga melibatkan ritual keagamaan, seperti memberi penghormatan kepada para leluhur dan pergi ke kuil untuk berdoa.
+The Songkran Festival, known as the Thai New Year, is a celebration lasting three days or more and is one of the most important traditions in the country. The festival took place from April 13 to 15, 2023, with some celebrations extending up to a week. It is famous for water splashing activities, symbolizing purification, washing away bad luck, and welcoming the new year with joy. Songkran also involves religious rituals, such as paying respects to ancestors and visiting temples for prayers.
 
-Selama perayaan, Bangkok menjadi pusat utama aktivitas, dengan beberapa distrik yang menjadi pusat festival antara lain Bang Rak, Parthum Wan dan Phra Nakhon. Di lokasi-lokasi ini, ribuan orang berkumpul untuk mengikuti pesta air, parade budaya, pertunjukan seni, dan acara hiburan lainnya yang berlangsung di jalan-jalan kota.
+During the festival, Bangkok becomes the main center of activity, with several districts as the core festival areas, including Bang Rak, Pathum Wan, and Phra Nakhon. Thousands of people gather in these areas to participate in water fights, cultural parades, art performances, and other entertainment events happening on the city streets.
 
-Airbnb berkomitmen untuk mendukung para wisatawan yang ingin merasakan keunikan Songkran dengan menyediakan akomodasi yang berkualitas dan nyaman. Untuk menarik lebih banyak pengunjung dan memastikan mereka mendapatkan pengalaman menginap terbaik, Airbnb akan memberikan rekomendasi listing selama festival berlangsung terutama pada wilayah pusat perayaan.
+Airbnb is committed to supporting travelers who want to experience the uniqueness of Songkran by providing quality and comfortable accommodations. To attract more visitors and ensure they have the best stay experience, Airbnb will provide listing recommendations during the festival, especially in the central celebration districts.
 
-# Tujuan
-1.  Melakukan segmentasi berdasarkan grade untuk listing pada Airbnb
-1.  Menemukan strategi pemasaran yang tepat untuk mendapatkan profit pada Airbnb setelah segmentasi
-1.  Menemukan strategi untuk menaikkan kualitas listing pada listing dengan grade rendah
+# Objectives
+1. Segment Airbnb listings based on grades.  
+2. Identify appropriate marketing strategies to maximize profit after segmentation.  
+3. Develop strategies to improve the quality of low-grade listings.
 
-# Kesimpulan
+# Conclusion
 
-1. **Preferensi Akomodasi**: 
-   - Mayoritas turis internasional, diperkirakan sekitar 300.000 orang, Asumsi turis lebih banyak memilih **Private Room** dan **Hotel Room**. Ini dikarenakan profil turis yang mengikuti festival biasanya terdiri dari pengunjung solo, berpasangan, atau kelompok kecil kurang dari lima orang. Oleh karena itu, akomodasi yang lebih besar seperti **Entire Home/Apt** kurang diminati.
+1. **Accommodation Preferences**:  
+   - The majority of international tourists, estimated at around 300,000, are assumed to prefer **Private Rooms** and **Hotel Rooms**. This is because festival-goers typically travel alone, as couples, or in small groups of fewer than five people. Therefore, larger accommodations like **Entire Home/Apt** are less popular.
 
-2. **Segmentasi**: 
-   -  Properti di kisaran harga atas berpotensi mendapatkan grade yang lebih tinggi (A atau B), sementara listing dengan harga terjangkau lebih banyak pada grade yang lebih rendah, keyword dalam segmentasi menjadi pembeda kualitas tiap listing.
+2. **Segmentation**:  
+   - Properties in the higher price range tend to receive higher grades (A or B), while more affordable listings mostly fall into lower grades. Keywords in the segmentation help differentiate the quality of each listing.
 
+3. **Listing Quality**:  
+   - Many listings in the central festival districts have low grades, indicating that a large portion of accommodations are not yet adequate for tourists. Preferences for Grade A accommodations are very limited, showing that the market for high-quality properties in these three districts is still restricted.
 
-4. **Kualitas Listing**: 
-   - Banyak listing di distrik pusat perayaan festival memiliki grade rendah, menandakan bahwa lebih banyak akomodasi yang belum memadai untuk turis. Preferensi untuk akomodasi grade A sangat sedikit, menunjukkan bahwa pasar untuk akomodasi berkualitas tinggi di ketiga distrik ini masih terbatas.
+Thus, accommodation management during the Songkran Festival should consider tourist preferences as well as the quality of available listings to enhance visitor experiences and support Bangkok’s tourism industry.
 
-Dengan demikian, pengelolaan akomodasi selama festival Songkran perlu mempertimbangkan preferensi turis serta kualitas akomodasi yang ditawarkan, untuk meningkatkan pengalaman wisatawan dan mendukung industri pariwisata di Bangkok.
+# Recommendations to Increase Company Profit
 
+### Business Team
 
+1. **Quality Improvement Programs:**  
+   - Develop training and support programs for hosts to enhance the quality of their properties, including facilities, aesthetics, and customer service.
 
-# Rekomendasi untuk Meningkatkan Profit Perusahaan
+2. **Targeted Marketing Campaigns:**  
+   - Create marketing campaigns segmented by listing grade. Tailor messaging and channels to target customers according to their preferences, such as via social media, email marketing, or online ads.
 
-### Tim Bisnis
+3. **Bundled Offers:**  
+   - Create packages that combine accommodations with additional services, such as local tours, airport pickup, or vehicle rentals, to generate additional revenue.
 
-1. **Pengembangan Program Peningkatan Kualitas:**
-   - Kembangkan program pelatihan dan dukungan untuk host dalam meningkatkan kualitas properti mereka, baik dari segi fasilitas, estetika, maupun layanan pelanggan.
+4. **Programs for Low-Grade Hosts:**  
+   - Offer subscription-based programs to hosts who successfully improve their listing quality and achieve higher grades, for example through higher search ranking or more prominent placement on the platform.
 
-2. **Kampanye Pemasaran Terarah:**
-   - Buat kampanye pemasaran yang tersegmentasi berdasarkan grade listing. Sesuaikan pesan dan saluran pemasaran untuk menargetkan pelanggan sesuai preferensi mereka, misalnya melalui media sosial, email marketing, atau iklan online.
+# Dataset
 
-3. **Penawaran Bundling:** 
-   - Buat paket penawaran yang menggabungkan akomodasi dengan layanan tambahan seperti tur lokal, penjemputan di bandara, atau sewa kendaraan untuk meningkatkan pendapatan tambahan.
+1. `id` : Unique Airbnb identifier for the listing.  
+2. `name` : Name of the property.  
+3. `host_id` : Unique Airbnb identifier for the host/user.  
+4. `host_name` : Name of the host.  
+5. `neighbourhood` : Neighborhood where the property is located.  
+6. `latitude` : Latitude based on the World Geodetic System (WGS84).  
+7. `longitude` : Longitude based on the World Geodetic System (WGS84).  
+8. `room_type` : Type of room offered.  
+9. `price` : Daily rental price in local currency (Baht).  
+10. `minimum_nights` : Minimum number of nights a guest must stay.  
+11. `number_of_reviews` : Total number of reviews received by the property.  
+12. `last_review` : Date of the most recent review.  
+13. `calculated_host_listings_count` : Number of properties the host owns at the time of the latest data collection.  
+14. `availability_365` : Availability of the property over 365 days, indicating how many days the property is available for booking in a year.  
+15. `number_of_reviews_ltm` : Number of reviews received in the last 12 months.
 
-4. **Program untuk Host dengan Grade Rendah:** 
-   - Tawarkan program berlangganan berbayar kepada host yang berhasil meningkatkan kualitas listing mereka dan mendapatkan grade yang lebih tinggi, misalnya dalam bentuk peringkat pencarian yang lebih tinggi, atau penempatan di posisi yang lebih terlihat di platform.
-
-**Dataset**:
-
-1. `id` : Identitas unik Airbnb untuk tempat tersebut.
-2. `name` : Nama yang dari properti
-3. `host_id` : Pengidentifikasi unik Airbnb untuk tuan rumah/pengguna.
-4. `host_name` : Nama tuan rumah
-5. `neighbourhood` : mengenai lingkungan (neighborhood) di mana properti tersebut terletak.
-6. `latitude` : Menggunakan proyeksi Sistem Geodesi Dunia (WGS84) untuk lintang dan bujur.
-7. `longitude` : Menggunakan proyeksi Sistem Geodesi Dunia (WGS84) untuk lintang dan bujur.
-8. `room_type` : tipe kamar yang disediakan
-9. `price` : Harga harian untuk menyewa properti, dinyatakan dalam mata uang lokal (bath).
-10. `minimum_nights` :  Jumlah minimum malam yang harus diinap oleh penyewa untuk properti tersebut.
-11. `number_of_reviews` : Jumlah ulasan yang diterima oleh properti tersebut
-12. `last_review`	: tanggal terakhir review
-13. `calculated_host_listings_count` : jumlah properti yang dimiliki oleh tuan rumah pada saat pengambilan data terbaru di suatu kota atau wilayah geografis.
-14. `availability_365` : Ketersediaan properti selama 365 hari. Ini menunjukkan berapa banyak hari properti tersebut tersedia untuk disewa dalam satu tahun. 
-15. `number_of_reviews_ltm` : Jumlah ulasan yang diterima oleh properti dalam 12 bulan terakhir (dalam 12 bulan terakhir).
 
